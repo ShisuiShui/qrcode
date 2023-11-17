@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
+  <title>qrcode</title>
 
   <link rel="stylesheet" href="./bootstrap/css/bootstrap.min.css">
 
@@ -41,7 +41,7 @@
 
     function success(result) {
       document.getElementById('result').innerHTML = `
-        <h2>BWAHAHHHAA</h2>
+        <h2>WELCOME</h2>
         <p><a>${result}</a></p>
         `;
 
